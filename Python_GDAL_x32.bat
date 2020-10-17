@@ -2,8 +2,9 @@
 
 echo Author: Pratyush Tripathy
 echo Email:  pratkrt@gmail.com
+echo Date created: 17 October 2020
 
-echo %~dp0
+:: echo %~dp0
 cd /D %~dp0
 if not exist "pratyush_temporary\" mkdir pratyush_temporary
 
