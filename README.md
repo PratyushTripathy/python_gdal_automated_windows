@@ -8,4 +8,4 @@ Please take care of the following three things while using the script:<br/>
 3. Shorten the Python installation directory to "C:\Python37". <br/>
 
 Usage instructions article : [link](https://medium.com/@pratyush_tripathy/python-and-gdal-installation-automated-for-windows-10-f22686595447)<br/>
-YouTube tutorial: [link](https://www.youtube.com/channel/UCNaiO5nE9nKdcCPsfPR14Nw)
+YouTube tutorial: [link](Will add the video soon)
