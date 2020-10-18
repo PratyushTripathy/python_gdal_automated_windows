@@ -7,5 +7,5 @@ Please take care of the following three things while using the script:<br/>
 2. Run the .bat file with administrative privilege. <br/>
 3. Shorten the Python installation directory to "C:\Python37". <br/>
 
-Usage instructions article : [link](https://medium.com/@pratyush_tripathy/python-and-gdal-installation-automated-for-windows-10-f22686595447)<br/>
-YouTube tutorial: [link](https://www.youtube.com/watch?v=kVoWcBRPVKI)
+## Usage instructions article : [link](https://medium.com/@pratyush_tripathy/python-and-gdal-installation-automated-for-windows-10-f22686595447)<br/>
+## YouTube tutorial: [link](https://www.youtube.com/watch?v=kVoWcBRPVKI)
