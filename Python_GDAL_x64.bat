@@ -97,4 +97,4 @@ echo .
 echo Installation complete! The program will terminate in 30 seconds.
 echo .
 echo .
-TIMEOUT /T 10
+TIMEOUT /T 30
