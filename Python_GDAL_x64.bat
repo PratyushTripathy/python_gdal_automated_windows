@@ -78,15 +78,9 @@ echo .
 echo All programs installed. Adding paths to environment variables.
 
 :: Add the path to system environment variables.
-if "%path%"=="%path:C:\Program Files\GDAL=%" (
 setx /m path "%path%;C:\Program Files\GDAL;
-)
-if "%path%"=="%path:C:\Python37=%" (
 setx /m path "%path%;C:\Python37;
-)
-if "%path%"=="%path:C:\Python37\Scripts=%" (
 setx /m path "%path%;C:\Python37\Scripts;
-)
 
 :: Create new variables in the system environment for GDAL.
 setx /m GDAL_DATA "C:\Program Files\GDAL\gdal-data"
