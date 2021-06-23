@@ -1,6 +1,6 @@
 Here is a list of all possible error you can encounter. If you encounter a new error, please report an issue in the repository and I will include that too. Afterall, it is always the community that makes open-source efforts possible.<br/>
 
-#### 1. ModuleNotFoundError: No module named '_gdal' <br/>
+### 1. ModuleNotFoundError: No module named '_gdal' <br/>
 This error is likely when the paths were somehow not added to the system variables.<br/>
 * Open File Explorer, in the left pane, right-click on "This PC" and go to "Properties".<br/>
 * In the left pane, click on the "Advanced System Setting", go to the "Advanced" tab on the top. In that, click on "Environment Variables..."<br/>
