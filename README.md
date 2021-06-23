@@ -9,3 +9,5 @@ Please take care of the following three things while using the script:<br/>
 
 ## Usage instructions article : [link](https://medium.com/@pratyush_tripathy/python-and-gdal-installation-automated-for-windows-10-f22686595447)<br/>
 ## YouTube tutorial: [link](https://www.youtube.com/watch?v=kVoWcBRPVKI)
+
+If you are facing issues in using this, please check the [debugger](Debugger) section. If your error is not listed, please crate a GitHub issue with conceise title and all the relevant details.
