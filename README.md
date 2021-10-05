@@ -10,3 +10,6 @@ Please take care of the following three things while using the script:<br/>
 ## YouTube tutorial: [link](https://www.youtube.com/watch?v=kVoWcBRPVKI)
 
 If you are facing issues in using this, please check the [debugger](debugger) section. If your error is not listed, please crate a GitHub issue with conceise title and all the relevant details.
+
+## Fixing "ModuleNotFoundError: No module named '\_gdal'"
+On some machines, you may get this error after running the whole thing. Do not worry, you are almost there. Follow 2-3 extra steps mentioned [here](./debugger) and your installation would successfully complete.
