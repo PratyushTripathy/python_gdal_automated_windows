@@ -1,6 +1,6 @@
 # Automated installation of Python and GDAL
 
-This repository contains the script for automated download, installation and set-up of Python and GDAL. The details are mentioned in a Medium post entitled [**Python and GDAL Installation Automated for Windows 10**](https://towardsdatascience.com/python-and-gdal-installation-automated-for-windows-10-f22686595447).<br/>
+This repository contains the script for automated download, installation and set-up of Python and GDAL. The details are mentioned in a Medium post titled [**Python and GDAL Installation Automated for Windows 10**](https://towardsdatascience.com/python-and-gdal-installation-automated-for-windows-10-f22686595447).<br/>
 
 Please take care of the following three things while using the script:<br/>
 1. Download the relevant version, i.e. 32-bit or 64-bit depending on your system. <br/>
