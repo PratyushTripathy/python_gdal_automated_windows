@@ -7,7 +7,7 @@ Please take care of the following three things while using the script:<br/>
 2. Run the .bat file with administrative privilege. <br/>
 3. Shorten the Python installation directory to "C:\Python37". <br/>
 
-## YouTube tutorial: [link](https://www.youtube.com/watch?v=kVoWcBRPVKI)
+## YouTube tutorial: [link1](https://www.youtube.com/watch?v=kVoWcBRPVKI) [link2](https://youtu.be/1G2tkMaoS8Q)
 
 If you are facing issues in using this, please check the [debugger](debugger) section. If your error is not listed, please crate a GitHub issue with conceise title and all the relevant details.
 
